@@ -1,5 +1,7 @@
 # Bot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/recursive-discord-bot.svg)](https://greenkeeper.io/)
+
 ### Tutorials:
 * https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
